@@ -1,0 +1,17 @@
+name: kemal-fastdl
+version: 0.0.1
+
+authors:
+  - 13ace37 (github@xace.ch)
+
+targets:
+  kemal-fastdl:
+    main: src/kemal-fastdl.cr
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+
+crystal: 0.35.1
+
+license: MIT
