@@ -4,7 +4,7 @@ server_path = ""
 port = "36949"
 
 module Kemal::Fastdl
-	VERSION = "0.0.1"
+	VERSION = "0.0.2"
 	OptionParser.parse do |parser|
 		parser.banner = "kemal-fastdl by ace"
 	  
